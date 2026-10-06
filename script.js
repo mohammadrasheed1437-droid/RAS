@@ -1,4 +1,4 @@
-javascript
+
 // ==========================================
 // SPORTS LEAGUE MANAGEMENT SYSTEM
 // JavaScript File
